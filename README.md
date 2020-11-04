@@ -48,7 +48,7 @@ IT 行业相对于一般传统行业，发展更新速度更快，一旦停止�
   - [第一个 Python 程序](/Article/PythonBasis/python1/The_first_procedure.md)
   - [集成开发环境（IDE）: PyCharm](/Article/PythonBasis/python1/IDE.md)
 * [基本数据类型和变量](/Article/PythonBasis/python2/Preface.md)
-  - [Python 语法的简要说明](/Article/PythonBasis/python2/Grammar.md)
+  - [Python 语法的简要说明](/Article/PythonBasis/python2/Python基础语法.md)
   - [print() 函数](/Article/PythonBasis/python2/print.md)
   - [Python 的基本数据类型](/Article/PythonBasis/python2/Type_of_data.md)
   - [字符串的编码问题](/Article/PythonBasis/python2/StringCoding.md)
